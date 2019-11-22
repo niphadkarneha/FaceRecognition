@@ -18,3 +18,7 @@ Second image used to train along with first one
 
 Faces detected amongst many
 ![Face Recognized using Python and Face_Recognition Library](./result_neha_ravim.jpg)
+
+In the above image, only Dr. Ravi Mukkamala's face and my face has our names under them, all other faces are labelled as unknown. You can run the attached notebook in either Anaconda or Google Colab and try the codes for yourself. All the necessary libraries to run it successfully are mentioned in the notebook.
+
+Happy Learning 📜
