@@ -5,6 +5,7 @@ This tutorial uses Python and related libraries [Face Recognition](https://githu
 ## Part 1 : Detecting 1 Person Amongst Many
 
 First image used to train
+
 ![Known image of Me(Neha)](./profile.jpg)
 
 Face detected amongst many
@@ -12,6 +13,7 @@ Face detected amongst many
 
 
 Second image used to train along with first one
+
 ![Known image of Dr. Ravi Mukkamal](./ravi.png)
 
 Faces detected amongst many
